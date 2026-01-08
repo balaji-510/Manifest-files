@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/balaji-510/Final-CI-CD
+    repoURL: https://github.com/balaji-510/Manifest-files
     targetRevision: main
     path: k8s
   destination:
