@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: payment-service
-        image: 331867785866.dkr.ecr.us-east-1.amazonaws.com/intern-project/payment-service:38
+        image: 331867785866.dkr.ecr.us-east-1.amazonaws.com/intern-project/payment-service:39
         ports:
         - containerPort: 8086
 
