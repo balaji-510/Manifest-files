@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: stock-service
-        image: 331867785866.dkr.ecr.us-east-1.amazonaws.com/intern-project/stock-service:39
+        image: 331867785866.dkr.ecr.us-east-1.amazonaws.com/intern-project/stock-service:40
         ports:
         - containerPort: 8087
 
